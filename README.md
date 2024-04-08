@@ -1,0 +1,3 @@
+ ```
+ npx wrangler@wasm dev
+ ```
